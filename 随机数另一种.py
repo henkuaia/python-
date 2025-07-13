@@ -1,6 +1,7 @@
 """
 随机数
 """
+#github编辑尝试
 import random
 num = random.randint(1, 10)
 a=int(input("请输入第1次猜的数字\n"))
